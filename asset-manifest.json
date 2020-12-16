@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/djupvik/static/css/main.03a11777.chunk.css",
+    "main.js": "/djupvik/static/js/main.0435912f.chunk.js",
+    "main.js.map": "/djupvik/static/js/main.0435912f.chunk.js.map",
+    "runtime-main.js": "/djupvik/static/js/runtime-main.a2a35df9.js",
+    "runtime-main.js.map": "/djupvik/static/js/runtime-main.a2a35df9.js.map",
+    "static/js/2.7e580da3.chunk.js": "/djupvik/static/js/2.7e580da3.chunk.js",
+    "static/js/2.7e580da3.chunk.js.map": "/djupvik/static/js/2.7e580da3.chunk.js.map",
+    "static/js/3.69578e7b.chunk.js": "/djupvik/static/js/3.69578e7b.chunk.js",
+    "static/js/3.69578e7b.chunk.js.map": "/djupvik/static/js/3.69578e7b.chunk.js.map",
+    "index.html": "/djupvik/index.html",
+    "static/css/main.03a11777.chunk.css.map": "/djupvik/static/css/main.03a11777.chunk.css.map",
+    "static/js/2.7e580da3.chunk.js.LICENSE.txt": "/djupvik/static/js/2.7e580da3.chunk.js.LICENSE.txt",
+    "static/media/Norway.26797d12.gif": "/djupvik/static/media/Norway.26797d12.gif",
+    "static/media/wanga.f4d73f85.jpg": "/djupvik/static/media/wanga.f4d73f85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2a35df9.js",
+    "static/js/2.7e580da3.chunk.js",
+    "static/css/main.03a11777.chunk.css",
+    "static/js/main.0435912f.chunk.js"
+  ]
+}
